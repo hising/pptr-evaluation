@@ -1,0 +1,23 @@
+{
+  "name": "pptr-evaluation",
+  "version": "1.0.0",
+  "description": "Evaluate Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hising/pptr-evaluation.git"
+  },
+  "author": "Mattias Hising <mattias@yetric.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hising/pptr-evaluation/issues"
+  },
+  "homepage": "https://github.com/hising/pptr-evaluation#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "puppeteer": "^1.13.0"
+  }
+}
